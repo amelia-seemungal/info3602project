@@ -1,0 +1,6 @@
+[24-Mar-2024 19:13:46 UTC] PHP Warning:  require_once(C:\Users\emily\Local Sites\the-chandler\app\public/wp-load.php): Failed to open stream: No such file or directory in C:\Users\emily\Local Sites\the-chandler\app\public\wp-blog-header.php on line 13
+[24-Mar-2024 19:13:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\emily\Local Sites\the-chandler\app\public/wp-load.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\emily\Local Sites\the-chandler\app\public\wp-blog-header.php:13
+Stack trace:
+#0 C:\Users\emily\Local Sites\the-chandler\app\public\index.php(17): require()
+#1 {main}
+  thrown in C:\Users\emily\Local Sites\the-chandler\app\public\wp-blog-header.php on line 13
