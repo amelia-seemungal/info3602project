@@ -22,7 +22,7 @@ with others.
 */
 
 /*--------------------------------------------------------------
->>> TABLE OF CONTENTS:
+>>> TABLE OF CONTENTS:  
 ----------------------------------------------------------------
 
 	0. 	CSS Reset
@@ -45,6 +45,7 @@ with others.
 	15. Widgets
 	16. Site Footer
 	17. Media Queries
+	18. Custom CSS 2257
 
 ----------------------------------------------------------------------------- */
 
@@ -2254,6 +2255,7 @@ body.template-cover .entry-header {
 	padding: 0;
 }
 
+/* Testimonial Box Our Products FQA box CSS*/
 .centered-image {
     display: block;
     margin-left: auto;
@@ -2277,8 +2279,6 @@ body.template-cover .entry-header {
 .text-center {
     text-align: center;
 }
-
-/* Testimonial Box Our Products FQA box CSS*/
 
 .testimonial-box {
     border: 5px solid #ccc; 
