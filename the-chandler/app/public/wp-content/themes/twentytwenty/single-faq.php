@@ -42,7 +42,7 @@ get_header();
             echo '<div class="faq-box">';
             echo '<div class="faq faq-centered">';
             echo '<div class="faq-content">' . get_the_content() . '</div>';
-            echo '<h1 class="question-title">' . the_field('question') . '</h1>'; // Wrap the question in an h1 tag
+            echo '<h1 class="question-title">' . the_field('question') . '</h1>'; 
             echo '<h3>' . the_field('answer') . '</h3>';
             echo '</div>';
             echo '</div>';
